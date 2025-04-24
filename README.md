@@ -28,9 +28,12 @@ Conocer la probabilidad de lluvia y las temperaturas máximas permite a agricult
 
 <img src="https://imgur.com/AXqChRi.png" alt="Nadia Arellano Avatar" width="250"/>
 
-Presentación del proyecto
-📽 [Ver presentación del proyecto en YouTube](https://www.youtube.com/watch?v=0bHyOWO3QxE)
-
-[![Ver en YouTube](https://www.youtube.com/watch?v=0bHyOWO3QxE.jpg)](https://www.youtube.com/watch?v=0bHyOWO3QxE)
-
+📽 Presentación del proyecto
+ <div align="left">
+<img src="https://imgur.com/cYDZYdh.png" width="400" alt="Modelado de Predicción de Lluvias'">
+<p>
+<br>
+<a href="https://www.youtube.com/watch?v=0bHyOWO3QxE" target="_blank">
+    <img src="https://img.shields.io/badge/%20Ver%20en%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+</a>
 
