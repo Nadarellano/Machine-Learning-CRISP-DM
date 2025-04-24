@@ -1,7 +1,27 @@
-### 🌾 Análisis Meteorológico para Planificación Agrícola
+### 🌾 Análisis Meteorológico para la Planificación Agrícola en Australia
 
-En este proyecto, hemos desarrollado un **análisis exhaustivo y detallado** utilizando técnicas de *minería de datos* aplicadas a un conjunto de datos meteorológicos, empleando **Jupyter Notebook** como herramienta principal.
+En este proyecto desarrollamos un análisis exhaustivo de datos meteorológicos usando técnicas de minería de datos aplicadas a un dataset público de clima en Australia, utilizando Jupyter Notebook como entorno principal.
 
-Nuestro objetivo es generar **información valiosa que apoye la toma de decisiones estratégicas** en la planificación agrícola, especialmente en el **cultivo de trigo en Australia**.
+📂 Dataset utilizado: Weather Australia, compuesto por más de 140 mil registros diarios, provenientes de múltiples estaciones meteorológicas del país.
 
-El proceso sigue la metodología **CRISP-DM**, que proporciona un marco estructurado para abordar problemas de minería de datos.
+El objetivo fue generar información valiosa que apoye la toma de decisiones estratégicas en el cultivo de trigo, una actividad clave en Australia. Buscamos identificar patrones estacionales, prever condiciones climáticas adversas y desarrollar modelos predictivos confiables.
+
+Aplicamos la metodología CRISP-DM como marco estructurado para todo el proceso, abarcando desde la comprensión del negocio hasta la visualización final de resultados.
+
+🔍 Metodología y herramientas
+Preprocesamiento de datos con imputación de valores nulos y codificación de variables categóricas
+
+Modelado predictivo:
+
+📈 Regresión múltiple y árbol de regresión para estimar la temperatura máxima
+
+🌧 Árbol de decisión y Naive Bayes para predecir la variable objetivo RainTomorrow
+
+Evaluación: Métricas como MAE, MSE, R², AUC, precisión global y F1-Score fueron clave para seleccionar el mejor modelo.
+
+Visualización: Análisis por estado, estación del año y efectividad del modelo para apoyar decisiones agrícolas reales
+
+📌 Insight clave:
+Conocer la probabilidad de lluvia y las temperaturas máximas permite a agricultores ajustar estrategias de siembra y cosecha, reducir pérdidas y mejorar la productividad.
+
+📊 Vista previa de resultados:
