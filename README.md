@@ -27,3 +27,10 @@ Conocer la probabilidad de lluvia y las temperaturas máximas permite a agricult
 📊 Visualización de predicciones por estado
 
 <img src="https://imgur.com/AXqChRi.png" alt="Nadia Arellano Avatar" width="250"/>
+
+Presentación del proyecto
+📽 [Ver presentación del proyecto en YouTube](https://www.youtube.com/watch?v=0bHyOWO3QxE)
+
+[![Ver en YouTube](https://www.youtube.com/watch?v=0bHyOWO3QxE.jpg)](https://www.youtube.com/watch?v=0bHyOWO3QxE)
+
+
