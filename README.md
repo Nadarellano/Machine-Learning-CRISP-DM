@@ -24,4 +24,6 @@ Visualización: Análisis por estado, estación del año y efectividad del model
 📌 Insight clave:
 Conocer la probabilidad de lluvia y las temperaturas máximas permite a agricultores ajustar estrategias de siembra y cosecha, reducir pérdidas y mejorar la productividad.
 
-📊 Vista previa de resultados:
+📊 Visualización de predicciones por estado
+
+<img src="https://imgur.com/AXqChRi.png" alt="Nadia Arellano Avatar" width="250"/>
